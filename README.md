@@ -19,7 +19,7 @@ Inferring a model on Windows:
 
 
 ### Compilation:
-You can just my download prebuilt [OpenCV and TensorFlow library here](https://drive.google.com/file/d/1ITJetuyXGeoNstVoT6cXRyCf2qn7t_Cx/view?usp=sharing "OpenCV and TensorFlow library here"), then extract it in the same folder as source code and jump to step 5.
+You can just download my prebuilt [OpenCV and TensorFlow library here](https://drive.google.com/file/d/1ITJetuyXGeoNstVoT6cXRyCf2qn7t_Cx/view?usp=sharing "OpenCV and TensorFlow library here"), then extract it in the same folder as source code and jump to step 5.
 
 **or if you want to have adventures, follows these instructions may save your time:**
 
